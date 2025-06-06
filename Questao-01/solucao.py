@@ -1,10 +1,7 @@
-# Lê três números da entrada
-num1 = float(input())
-num2 = float(input())
-num3 = float(input())
-
-# Calcula a média
-media = (num1 + num2 + num3) / 3
-
-# Exibe o resultado com duas casas decimais
-print(f"{media:.2f}")
+while True:
+    a = float(input("Digite uma nota entre 0 e 10: "))
+    if 0 <= a <= 10:
+        break
+    else:
+        print("Valor inválido. Tente de novo.\n")
+print(f"A nota é: {a:.1f}.")

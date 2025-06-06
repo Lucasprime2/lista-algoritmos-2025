@@ -1,13 +1,8 @@
-# Questão 01: [Nome da Questão]
+# Questão 01
 
 ## Descrição
-[Descreva o problema aqui. Exemplo: "Escreva um programa que calcule a média de três números."]
+Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e
+continue pedindo até que o usuário informe um valor válido.
 
-## Entrada
-[Descreva o formato da entrada. Exemplo: "Três números inteiros, um por linha."]
 
-## Saída
-[Descreva o formato da saída. Exemplo: "A média dos números, com duas casas decimais."]
 
-## Exemplo
-**Entrada:**
